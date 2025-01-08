@@ -61,4 +61,4 @@ L*eading American software development company with over 500 employees and 25 ye
 
 ## Education
 
-**Samara University,** Faculty of Electronics and Instrumentation, electronics and nanoelectronics, **2018 год**
+**Samara University,** Faculty of Electronics and Instrumentation, electronics and nanoelectronics, **2018 year**
