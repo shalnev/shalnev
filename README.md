@@ -20,8 +20,8 @@ Accelerated page load times, improved UX, created a component system and modular
 L*eading American software development company with over 500 employees and 25 years of experience. Recognized in App Store trends and by Clutch and CSS Design Awards.*
 
 * Led and mentored a frontend team of 9 developers, ensuring a smooth knowledge transfer from external vendors, which accelerated the project release cycle by 23% and included successful French localization.  
-* Implemented a monetization system using the Stripe API, transitioning the internal currency to a tiered subscription model, resulting in a 35% revenue increase within 6 months.  
-* Migrated a legacy codebase from Angular.js (v1) and .NET Razor to modern Angular, reducing technical debt and improving development speed, while cutting bug reports by 40%.  
+* Implemented a monetization system using the Stripe API, transitioning the internal currency to a tiered subscription model, resulting in a 6% revenue increase within 6 months.  
+* Migrated a legacy codebase from Angular.js (v1) and .NET Razor to modern Angular, reducing technical debt and improving development speed, while cutting bug reports by 29%.  
 * Designed an API for processing large datasets, which enhanced UX and improved page load speed by 38.6%, while reducing server-side errors by 17.2%.  
 * Conducted over 150 code reviews and mentored the team in RxJS and Angular best practices, leading to a reduction in post-release bugs and improving overall team competency.
 
